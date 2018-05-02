@@ -1,0 +1,45 @@
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe.config
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.pdb
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.xml
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.Resources.resources
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.exe
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.xml
+C:\Users\Alfredio\Documents\Proyectos Vb 2017\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.pdb
+D:\Alfredo\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe.config
+D:\Alfredo\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.exe
+D:\Alfredo\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.xml
+D:\Alfredo\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.pdb
+D:\Alfredo\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe
+D:\Alfredo\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.pdb
+D:\Alfredo\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.xml
+D:\Alfredo\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.Resources.resources
+D:\Alfredo\guiaPractica2018\guiaPractica2018\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+E:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe.config
+E:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.exe
+E:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.xml
+E:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.pdb
+G:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe.config
+G:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.exe
+G:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.xml
+G:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.pdb
+G:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe
+G:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.pdb
+G:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.xml
+G:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.Resources.resources
+G:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+E:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.exe
+E:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.pdb
+E:\clase\guiaPractica2018\guiaPractica2018\bin\Debug\guiaPractica2018.xml
+E:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\guiaPractica2018.Resources.resources
+E:\clase\guiaPractica2018\guiaPractica2018\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\obj\Debug\Variables_operaciones.vbproj.GenerateResource.Cache
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\bin\Debug\Hola_Mundo.exe.config
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\bin\Debug\Hola_Mundo.exe
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\bin\Debug\Hola_Mundo.pdb
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\bin\Debug\Hola_Mundo.xml
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\obj\Debug\Hola_Mundo.Resources.resources
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\obj\Debug\Hola_Mundo.exe
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\obj\Debug\Hola_Mundo.xml
+C:\Users\Alfredio\Documents\Proyetos vb 2018\repositorio-variables-operaciones\guiaPractica2018\obj\Debug\Hola_Mundo.pdb
